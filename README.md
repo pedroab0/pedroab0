@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrobarbosa0 
-- <img height="16" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/linkedin.png">[You can reach me on Linkedin just by following this link](https://www.linkedin.com/in/pedro-abarbosa/)
+- <img height="16" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/linkedin.png"> [You can reach me on Linkedin just by following this link](https://www.linkedin.com/in/pedro-abarbosa/)
 
 ***
 
