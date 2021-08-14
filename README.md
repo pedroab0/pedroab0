@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...   
-- <img align="left" height="20" src="hthttps://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/linkedin.png">
-- [linkedIn](https://www.linkedin.com/in/pedro-abarbosa/)
+- <img align="left" height="20" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/linkedin.png">[linkedIn](https://www.linkedin.com/in/pedro-abarbosa/)
 
 **
 
