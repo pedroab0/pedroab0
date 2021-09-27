@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pedro Barbosa
 - 👨‍💻 I'm developer
 - 💻 All repositories have testable demos... Or almost all 😅
-> ![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa/) 
+> <a href="https://www.linkedin.com/in/pedro-abarbosa/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa"></a> 
 
 **Languages and tools:**
 
