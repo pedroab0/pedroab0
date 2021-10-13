@@ -14,6 +14,7 @@
 <img align="left" height="22" src="https://styled-components.com/icon.png">
 
 <br />
+
 ___
 
 ![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrobarbosa0&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=github_dark)
