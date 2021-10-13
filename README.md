@@ -18,8 +18,10 @@
 ___
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobarbosa0&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=github_dark" alt="Pedro GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarbosa0&layout=compact&theme=github_dark" alt="Pedro GitHub most used languages" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobarbosa0&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=github_dark" alt="Pedro GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarbosa0&layout=compact&theme=github_dark" alt="Pedro GitHub most used languages" />
+</div>
 
 
 <!---
