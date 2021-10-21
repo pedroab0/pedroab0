@@ -18,7 +18,7 @@
 ___
 
 
-<div>
+<div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarbosa0&layout=compact&theme=github_dark&hide=html,css&langs_count=9&hide_border=true" alt="Pedro GitHub most used languages" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrobarbosa0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=24000" alt="Pedro GitHub Stats" />
 </div>
