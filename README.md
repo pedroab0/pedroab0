@@ -5,13 +5,13 @@
 
 **Languages and tools:**
 
-<img align="left" height="22" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/javascript.png">
-<img align="left" height="22" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/typescript.svg">
-<img align="left" height="22" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/nodejs.png">
-<img align="left" height="22" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/react.png">
-<img align="left" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-<img align="left" height="22" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
-<img align="left" height="22" src="https://styled-components.com/icon.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/javascript.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/typescript.svg">
+<img align="left" height="30" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/nodejs.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/pedrobarbosa0/pedrobarbosa0/main/images/react.png">
+<img align="left" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+<img align="left" height="30" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg">
+<img align="left" height="30" src="https://styled-components.com/icon.png">
 
 <br />
 
