@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Pedro Barbosa
-- 👨‍💻 I'm developer
+<div align="center">
+  <img height="300em" src="https://raw.githubusercontent.com/pedroab0/pedroab0/main/images/github-banner.png" alt="Hi i'm Pedro Barbosa, Front-End Developer" />
+</div>
+
+<br />
+
 - 💻 All repositories have testable demos... Or almost all 😅
-> <a href="https://www.linkedin.com/in/pedroab0/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedro-abarbosa"></a> 
+> <a href="https://www.linkedin.com/in/pedroab0/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedroab0"></a> 
 
 **Languages and tools:**
 
@@ -19,8 +23,8 @@ ___
 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobarbosa0&layout=compact&theme=github_dark&hide=html,css&langs_count=9&hide_border=true" alt="Pedro GitHub most used languages" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrobarbosa0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=24000" alt="Pedro GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroab0&layout=compact&theme=github_dark&hide=html,css&langs_count=9&hide_border=true" alt="Pedro GitHub most used languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroab0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=24000" alt="Pedro GitHub Stats" />
 </div>
 
 
