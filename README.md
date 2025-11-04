@@ -4,7 +4,7 @@
 
 <br />
 
-> <a href="https://www.linkedin.com/in/pedroab0/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pedro%20Barbosa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedroab0"></a> 
+<a href="https://www.linkedin.com/in/pedroab0/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&https://www.linkedin.com/in/pedroab0"></a> 
 
 **Languages and tools:**
 
