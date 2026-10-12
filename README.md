@@ -1,7 +1,7 @@
 <div align="center">
-  <img width="800" src="https://raw.githubusercontent.com/pedroab0/pedroab0/main/images/GithubBanner.png" alt="Hi, I'm Pedro Barbosa, Front-End Developer" />
+  <img width="700" src="https://raw.githubusercontent.com/pedroab0/pedroab0/main/images/GithubBanner.png" alt="Hi, I'm Pedro Barbosa, Front-End Developer" />
 
-  <br /><br />
+  <br />
 
   <h3>Contact Info</h3>
 
