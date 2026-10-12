@@ -1,5 +1,10 @@
 <div align="center">
-  <img width="700" src="https://raw.githubusercontent.com/pedroab0/pedroab0/main/images/GithubBanner.png" alt="Hi, I'm Pedro Barbosa, Front-End Developer" />
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./images/galaxy-header-mobile-light.svg">
+    <source media="(max-width: 600px)" srcset="./images/galaxy-header-mobile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/galaxy-header-light.svg">
+    <img src="./images/galaxy-header.svg" width="850" alt="Pedro Barbosa - Galaxy Profile">
+  </picture>
 
   <br />
 
