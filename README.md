@@ -20,10 +20,14 @@ ___
 
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-pedrobarbosa0s-projects.vercel.app/api/top-langs/?username=pedroab0&layout=compact&theme=github_dark&hide=html,css&langs_count=9&hide_border=true" alt="Pedro GitHub most used languages" />
-  <img height="170em" src="https://github-readme-stats-pedrobarbosa0s-projects.vercel.app/api?username=pedroab0&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark&cache_seconds=24000" alt="Pedro GitHub Stats" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=pedroab0&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github" alt="Pedro GitHub most used languages" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs?username=pedroab0&layout=compact&langs_count=8&theme=dark_github" alt="Pedro GitHub Stats" />
 </div>
 
+<br />
+
+
+<img height="100em" src="https://github-stats-extended.vercel.app/api/gist?id=82a5e158a63231b19958abe1ca7beabc&show_owner=true&theme=dark_github_repocard" alt="Pedro GitHub Stats" />
 
 <!---
 pedrobarbosa0/pedrobarbosa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
