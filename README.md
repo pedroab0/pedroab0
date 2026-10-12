@@ -56,7 +56,9 @@ ___
 
 <br />
 
-<img width="440" height="107" src="https://github-stats-extended.vercel.app/api/gist?id=82a5e158a63231b19958abe1ca7beabc&show_owner=true&theme=dark_github_repocard" alt="Pedro GitHub Gist" />
+<a href="https://gist.github.com/pedroab0/82a5e158a63231b19958abe1ca7beabc" target="_blank">
+  <img width="440" src="https://github-stats-extended.vercel.app/api/gist?id=82a5e158a63231b19958abe1ca7beabc&show_owner=false&theme=dark_github_repocard&border_radius=6&border_color=30363d" alt="pull_request_template.md" />
+</a>
 
 <!---
 pedroab0/pedroab0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
