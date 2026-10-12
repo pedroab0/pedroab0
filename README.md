@@ -5,17 +5,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/galaxy-header-light.svg">
     <img src="./images/galaxy-header.svg" width="850" alt="Pedro Barbosa - Galaxy Profile">
   </picture>
-
-  <br />
-
-  <h3>Contact Info</h3>
-
-  <a href="https://www.linkedin.com/in/pedroab0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
-  </a>
-  <a href="mailto:p.brbsa@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
-  </a>
 </div>
 
 <br />
